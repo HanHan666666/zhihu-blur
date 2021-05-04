@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        知乎标题栏毛玻璃
 // @namespace   none
-// @version     1.0
+// @version     1.1
 // @description 一款可以使知乎标题栏呈现毛玻璃效果的用户样式表。
 // @author      hanplus
 // @license     MIT
