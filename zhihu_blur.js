@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        知乎标题栏毛玻璃
 // @namespace   none
-// @version     1.2
+// @version     1.3
 // @description 一款可以使知乎标题栏呈现毛玻璃效果的用户样式表。
 // @description 问题反馈请到https://github.com/HanHan666666/zhihu-blur
 // @author      hanplus
