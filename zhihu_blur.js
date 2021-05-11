@@ -46,15 +46,18 @@
             background: #ffffff89
         }
     .HoverCard-loading {
-            -webkit-backdrop-filter: saturate(180%) blur(20px);
-            backdrop-filter: saturate(180%) blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            backdrop-filter: blur(20px);
             background: #ffffff89		
         }
     .HoverCard {
-            -webkit-backdrop-filter: saturate(180%) blur(20px);
-            backdrop-filter: saturate(180%) blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            backdrop-filter: blur(20px);
             background: #ffffff89	
     }
+    .CommentCollapseButton {        
+        background-color: rgb(255 255 255 / 4%);
+        backdrop-filter: blur(20px)
 
     `;
     if (typeof GM_addStyle !== "undefined") {
