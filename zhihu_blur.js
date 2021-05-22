@@ -56,7 +56,7 @@
             background: #ffffff89	
     }
     .CommentCollapseButton {        
-        background-color: rgb(255 255 255 / 4%);
+        background-color: rgb(243 243 243 / 60%);;
         backdrop-filter: blur(20px)
 
     `;
