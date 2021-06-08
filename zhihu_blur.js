@@ -59,9 +59,12 @@
     .Input-wrapper.Input-wrapper--grey {
         background: #ffffff66;
     }
+    .SimpleSearchBar-input {
+        background-color: #f6f6f666;
+    }
     .CommentCollapseButton {        
-        background-color: rgb(243 243 243 / 60%);;
-        backdrop-filter: blur(20px)
+        background-color: rgb(243 243 243 / 60%);
+        backdrop-filter: blur(20px)}
 
     `;
     if (typeof GM_addStyle !== "undefined") {
