@@ -55,6 +55,9 @@
             backdrop-filter: blur(20px);
             background: #ffffff89	
     }
+    .Input-wrapper.Input-wrapper--grey {
+        background: #ffffff66;
+    }
     .CommentCollapseButton {        
         background-color: rgb(243 243 243 / 60%);;
         backdrop-filter: blur(20px)
