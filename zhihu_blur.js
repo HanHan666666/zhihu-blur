@@ -12,6 +12,7 @@
 // @match       *://zhuanlan.zhihu.com/*
 // @name        zhihu_theme
 // @description a theme for zhihu.com
+// @description 知乎
 // ==/UserScript==
 
 (function() {
