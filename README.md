@@ -1,7 +1,10 @@
 # zhihu-blur
 为知乎（zhihu.com）添加毛玻璃效果
+
 目前处于失效状态
+
 由于工作原因过几天再更新
+
 效果展示：
 [![2hBvDg.jpg](https://z3.ax1x.com/2021/06/11/2hBvDg.jpg)](https://imgtu.com/i/2hBvDg)
 
