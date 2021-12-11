@@ -79,8 +79,8 @@
         background-color: #f6f6f666!important;
     }
     .css-n9os37 {
-        background: rgb(255 255 255 / 89%);
-        backdrop-filter: blur(20px);!important;
+        background: rgb(255 255 255 / 89%)!important;
+        backdrop-filter: blur(20px)!important;
     }
     .CommentCollapseButton {        
         background-color: rgb(243 243 243 / 60%);
