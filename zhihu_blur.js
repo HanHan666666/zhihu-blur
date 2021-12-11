@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        知乎标题栏毛玻璃
 // @namespace   none
-// @version     1.9
+// @version     1.10
 // @description 一款可以使知乎标题栏呈现毛玻璃效果的用户样式表。
 // @description 问题反馈请到https://github.com/HanHan666666/zhihu-blur
 // @author      hanplus
@@ -16,11 +16,14 @@
 // @description zhihu
 // ==/UserScript==
 
-(function() {
+(function () {
     let css = `
     .css-1x8hcdw {
         background-color: #ffffff89!important;
         
+        }
+    .Menu-item.is-active {
+            background: #ffffff45!important;
         }    
     .AppHeader {
         
@@ -74,6 +77,10 @@
     }
     .SimpleSearchBar-input {
         background-color: #f6f6f666!important;
+    }
+    .css-n9os37 {
+        background: rgb(255 255 255 / 89%);
+        backdrop-filter: blur(20px);!important;
     }
     .CommentCollapseButton {        
         background-color: rgb(243 243 243 / 60%);
