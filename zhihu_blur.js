@@ -82,6 +82,9 @@
         background: rgb(255 255 255 / 89%)!important;
         backdrop-filter: blur(20px)!important;
     }
+    .Notifications-footer {
+        background: #e7373700;
+    }
     .CommentCollapseButton {        
         background-color: rgb(243 243 243 / 60%);
         backdrop-filter: blur(20px)}
